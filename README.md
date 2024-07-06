@@ -1,4 +1,4 @@
-![51a238b99de3c51e7609096eb6f370d5](https://github.com/Ausrif-Dev/Ausrif-Dev/assets/173591538/dfde973a-f54f-453d-8cac-6271ebd1c002)
+![megaman-gif](https://github.com/Ausrif-Dev/Ausrif-Dev/assets/173591538/a6e6bfc2-004e-492e-9c40-3e7862f2ad18)
 
 - 👋 Hi, I’m @Ausrif-Dev
 - 👀 I’m interested in robotic automation processes, process automation, machine learning and some programming.
