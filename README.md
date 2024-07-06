@@ -1,3 +1,5 @@
+![51a238b99de3c51e7609096eb6f370d5](https://github.com/Ausrif-Dev/Ausrif-Dev/assets/173591538/dfde973a-f54f-453d-8cac-6271ebd1c002)
+
 - 👋 Hi, I’m @Ausrif-Dev
 - 👀 I’m interested in robotic automation processes, process automation, machine learning and some programming.
 - 🌱 I’m currently learning the industry robotic automation system software, machine learning domains and some tech stacks in software development.
